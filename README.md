@@ -9,7 +9,7 @@
     <img align="center" alt="Typescript" height="30" width="40" src="/assets/images/typescript-plain.svg">
     <img align="center" alt="ExpressJS" height="30" width="40" src="/assets/images/express-original.svg">
     <img align="center" alt="NodeJS" height="30" width="40" src="/assets/images/nodejs-plain.svg">
-    <img align="center" alt="MongoDB" height="30" width="40" src="/assets/images/mongodb-plain.svg">
+    <img align="center" alt="MongoDB" height="30" width="40" src="/assets/images/mongodb-plain-purple.svg">
   </div>
   
   ##
