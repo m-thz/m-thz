@@ -5,11 +5,11 @@
   
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="CPlusPlus" height="30" width="40" src="/assets/images/angularjs-plain.svg">
-    <img align="center" alt="Csharp" height="30" width="40" src="/assets/images/typescript-plain.svg">
-    <img align="center" alt="Python" height="30" width="40" src="/assets/images/express-original.svg">
-    <img align="center" alt="Django" height="30" width="40" src="/assets/images/nodejs-plain.svg">
-    <img align="center" alt="Flask" height="30" width="40" src="/assets/images/mongodb-original.svg">
+    <img align="center" alt="AngularJS" height="30" width="40" src="/assets/images/angularjs-plain.svg">
+    <img align="center" alt="Typescript" height="30" width="40" src="/assets/images/typescript-plain.svg">
+    <img align="center" alt="ExpressJS" height="30" width="40" src="/assets/images/express-original.svg">
+    <img align="center" alt="NodeJS" height="30" width="40" src="/assets/images/nodejs-plain.svg">
+    <img align="center" alt="MongoDB" height="30" width="40" src="/assets/images/mongodb-plain.svg">
   </div>
   
   ##
