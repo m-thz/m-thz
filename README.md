@@ -4,8 +4,8 @@
   
 ##
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-thz&theme=gotham&card_width=410)](https://git.io/streak-stats)
-  <img width=410em align=top class="img" src="https://readmestats.999857.xyz/api/top-langs/?username=m-thz&layout=compact&langs_count=8&card_width=265&theme=gotham" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=m-thz&theme=violet-punch&card_width=410)](https://git.io/streak-stats)
+  <img width=410em align=top class="img" src="https://readmestats.999857.xyz/api/top-langs/?username=m-thz&layout=compact&langs_count=8&card_width=265&theme=violet-punch" />
   
   
   <div style="display: inline_block"><br>
