@@ -5,11 +5,11 @@
   
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="CPlusPlus" height="30" width="40" src="/assets/images/cplusplus-plain.svg">
-    <img align="center" alt="Csharp" height="30" width="40" src="/assets/images/csharp-plain.svg">
-    <img align="center" alt="Python" height="30" width="40" src="/assets/images/python-plain.svg">
-    <img align="center" alt="Django" height="30" width="40" src="/assets/images/django-plain.svg">
-    <img align="center" alt="Flask" height="30" width="40" src="/assets/images/flask-original.svg">
+    <img align="center" alt="CPlusPlus" height="30" width="40" src="/assets/images/angularjs-plain.svg">
+    <img align="center" alt="Csharp" height="30" width="40" src="/assets/images/typescript-plain.svg">
+    <img align="center" alt="Python" height="30" width="40" src="/assets/images/express-original.svg">
+    <img align="center" alt="Django" height="30" width="40" src="/assets/images/nodejs-plain.svg">
+    <img align="center" alt="Flask" height="30" width="40" src="/assets/images/mongodb-original.svg">
   </div>
   
   ##
